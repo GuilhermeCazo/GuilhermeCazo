@@ -1,4 +1,4 @@
-## Olá meu apelido é Boboca, e eu estou no 3ºano do ensino médio :D
+## Olá meu apelido é Gui_Zaco, e eu estou no 3ºano do ensino médio :D
 
 <div align="center">
   <a href="https://github.com/GuilhermeCazo">
